@@ -15,12 +15,11 @@ var first$Name = "Max";
 var $firstName = "Terex";
 console.log(first_Name, _firstName, first$Name, $firstName); // Ritik John Max Terex
 
-// you cannot use spaces 
+// you cannot use spaces
 // example :- var first Name = "Ritik"; (invalid)
 
 // convention
 // start with small letter and use camelCase
 
 var secondName = "Ritik Singh";
-console.log(secondName); 
-
+console.log(secondName);

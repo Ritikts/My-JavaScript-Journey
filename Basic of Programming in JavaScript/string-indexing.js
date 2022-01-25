@@ -22,4 +22,4 @@ console.log(spaceString.length); // 8
 // we can do this by "length - 1"
 
 let randomLetters = "qwertyuiopasdfghjklzxcvbnm";
-console.log(randomLetters[randomLetters.length-1]); // m
+console.log(randomLetters[randomLetters.length - 1]); // m

@@ -20,6 +20,6 @@ newNum = String(newNum); // use string method
 console.log(typeof newNum); // string
 
 // string to number
-let newStr = "Ritik"
+let newStr = "Ritik";
 newStr = Number(newStr); // use number method
 console.log(typeof newStr); // number

@@ -3,7 +3,6 @@
 // toLowerCase() -- it change every character to lowercase
 // slice() -- it gives new string by providing the indexing
 
-
 // trim()
 let firstName = "  ritik singh  ";
 // console.log(firstName.length); // 15
@@ -21,5 +20,5 @@ firstName = firstName.toLowerCase();
 console.log(firstName); // ritik singh
 
 // slice()
-let sliceString = firstName.slice(3,5); // (starting index, ending index)
+let sliceString = firstName.slice(3, 5); // (starting index, ending index)
 console.log(sliceString); // it

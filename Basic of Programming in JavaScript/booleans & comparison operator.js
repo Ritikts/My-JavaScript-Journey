@@ -10,9 +10,9 @@ console.log(num1 > num2); // true
 let num3 = 8;
 let num4 = "8";
 console.log(num3 == num4); // true because == only check the value not type
-console.log(num3 === num4); // false because === check value and type 
+console.log(num3 === num4); // false because === check value and type
 
-// != vs !== 
+// != vs !==
 
 let num5 = 6;
 let num6 = "6";

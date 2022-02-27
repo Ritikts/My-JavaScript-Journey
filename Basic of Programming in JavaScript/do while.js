@@ -4,4 +4,5 @@ let i = 10;
 do {
   console.log(i);
   i++;
-} while (i <= 9); // for do then do other things
+} while (i <= 9); // first do then do other things
+ 
